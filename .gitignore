@@ -1,0 +1,4 @@
+/packages
+/WebSocketLab/bin
+*.exe
+*.pdb

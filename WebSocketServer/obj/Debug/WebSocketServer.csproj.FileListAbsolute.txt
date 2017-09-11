@@ -1,0 +1,10 @@
+D:\Test\WebSocketLab\WebSocketServer\bin\Debug\WebSocketServer.exe
+D:\Test\WebSocketLab\WebSocketServer\bin\Debug\WebSocketServer.pdb
+D:\Test\WebSocketLab\WebSocketServer\obj\Debug\WebSocketServer.exe
+D:\Test\WebSocketLab\WebSocketServer\obj\Debug\WebSocketServer.pdb
+D:\Test\WebSocketLab\WebSocketServer\obj\Debug\WebSocketServer.csprojResolveAssemblyReference.cache
+D:\CSharpLab\WebSocketLab\WebSocketServer\obj\Debug\WebSocketServer.exe
+D:\CSharpLab\WebSocketLab\WebSocketServer\obj\Debug\WebSocketServer.pdb
+D:\CSharpLab\WebSocketLab\WebSocketServer\bin\Debug\WebSocketServer.exe
+D:\CSharpLab\WebSocketLab\WebSocketServer\bin\Debug\WebSocketServer.pdb
+D:\CSharpLab\WebSocketLab\WebSocketServer\obj\Debug\WebSocketServer.csprojResolveAssemblyReference.cache
