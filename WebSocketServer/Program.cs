@@ -38,6 +38,7 @@ namespace WebSocketServer
                 if (new Regex("^GET").IsMatch(data))
                 {
                     var response = GenerateUpgreadWebSocketHandShackRespond(data);
+                    Console.WriteLine(Encoding.UTF8.GetString(response));
                     stream.Write(response, 0, response.Length);
                 }
                 else
